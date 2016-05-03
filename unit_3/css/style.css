@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	font-family: "Trebuchet MS", sans-serif;
+	background: url('images/cafe2.jpg') no-repeat;
+	background-size: cover;
+	
+	}
+
+	p {
+		color: #fff;
+	}
+
+.hero {
+    text-align: center;
+    margin: auto 0;
+	}
+
+
+#logo{
+	max-width: 50%;
+	
+}
+#slogan{
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	}
+hr{
+    width: 300px;
+    color: #fff;
+}
+footer{
+	text-align: center;
+	font-family: "Trebuchet MS", sans-serif;
+    padding-top: 300px;
+	
+}
