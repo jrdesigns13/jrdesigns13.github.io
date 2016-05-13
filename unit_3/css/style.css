@@ -1,25 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,500italic);
+
 body {
 	text-align: center;
-	font-family: "Trebuchet MS", sans-serif;
+	font-family: 'Fira Sans', sans-serif;
 	background: url('images/cafe2.jpg') no-repeat;
 	background-size: cover;
 	
-	}
+}
 
-	p {
-		color: #fff;
-	}
+p {
+	color: #fff;
+}
 
 .hero {
     text-align: center;
     margin: auto 0;
-	}
+}
 
 
 #logo{
 	max-width: 50%;
-	
 }
+
 #slogan{
 	font-size: 20px;
 	font-weight: bold;
@@ -31,7 +33,7 @@ hr{
 }
 footer{
 	text-align: center;
-	font-family: "Trebuchet MS", sans-serif;
+	font-family: 'Fira Sans', sans-serif;
     padding-top: 300px;
 	
 }
